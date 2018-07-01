@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+class Main {
   public static void main(String args[]){
     System.out.print("Input a degree in Fahrenheit: ");
 	Scanner scanner = new Scanner(System.in);
